@@ -117,7 +117,7 @@ namespace N_ary_Tree
                     Parent = Parent.Parent;
                 }
                 AllSom.Add(Som[0]);
-            }
+            }//test
             return AllSom;
         }
 
